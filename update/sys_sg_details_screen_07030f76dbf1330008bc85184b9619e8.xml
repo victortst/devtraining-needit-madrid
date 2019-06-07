@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Needit - Next Quarter">a24c16f6db71330008bc85184b96196a</data_item>
+        <description>NeedIt Next Quarter</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="copy">fa03cb76dbf1330008bc85184b96193d</icon>
+        <item_view display_value="NeedIt Next Quarter detail item view">0f03cf76dbf1330008bc85184b9619ec</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>4303cb76dbf1330008bc85184b961963</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-06 17:52:39</sys_created_on>
+        <sys_id>07030f76dbf1330008bc85184b9619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_details_screen_07030f76dbf1330008bc85184b9619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-06 17:52:39</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>
